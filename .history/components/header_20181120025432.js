@@ -1,5 +1,0 @@
-const HeaderComponent = () => {
-    return(
-        
-    )
-}

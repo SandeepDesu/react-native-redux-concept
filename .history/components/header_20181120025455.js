@@ -1,6 +1,0 @@
-import 
-const HeaderComponent = () => {
-    return(
-
-    )
-}
