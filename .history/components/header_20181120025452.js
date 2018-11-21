@@ -1,0 +1,6 @@
+
+const HeaderComponent = () => {
+    return(
+
+    )
+}
